@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "87f2d233864ce2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8778148d61005f85",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faa3466902e15817",
+    "type": "split",
+    "children": [
+      {
+        "id": "79f06e4c443ede78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f56962f13bd100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf7685ab63a591ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "c10b82393bdbff06",
+    "type": "split",
+    "children": [
+      {
+        "id": "b750b62cd62ac1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd9f9822308cb6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8778148d61005f85",
+  "lastOpenFiles": [
+    "Módulo 4 - Ciência da Computação/Bloco 32_ Introdução à Python/Bloco 32_ Introdução à Python.md",
+    "Módulo 4 - Ciência da Computação/Bloco 32_ Introdução à Python/01_ Aprendendo Python/01_ Aprendendo Python.md",
+    "Módulo 3 - Desenvolvimento Back-end/Bloco 22_ Introdução ao MongoDB/02_ Filter Operators/02_ Filter Operators.md",
+    "Módulo 1 - Fundamentos do Desenvolvimento Web/Bloco 07_ Introdução à JavaScript ES6 e Testes Unitários/02_ JavaScript ES6 - Objects/02_ JavaScript ES6 - Objects.md",
+    "Módulo 1 - Fundamentos do Desenvolvimento Web/Bloco 01: Unix & Bash/Bloco 01: Unix & Bash.md"
+  ]
+}
