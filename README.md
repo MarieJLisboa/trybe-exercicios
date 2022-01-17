@@ -48,20 +48,20 @@ Contém todas as atividades desenvolvidas por __[mim](www.linkedin.com/in/mariej
 
 ##### Bloco 6: Introdução - Front-end
 
-- [ ] 6-1: HTML & CSS - Forms
-- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: CSS Flexbox - Part 1
-- [ ] 6-4: CSS Flexbox - Part 2
-- [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: [Projeto - Página inicial do Facebook]
+- [x] 6-1: HTML & CSS - Forms
+- [x] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [x] 6-3: CSS Flexbox - Part 1
+- [x] 6-4: CSS Flexbox - Part 2
+- [x] 6-5: CSS Responsivo - Mobile First
+- [x] 6-6: [Projeto - Página inicial do Facebook]
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: JavaScript ES6 - Objects
-- [ ] 7-3: Testes unitários em JavaScript
-- [ ] 7-4: Testando em pequenos passos
-- [ ] 7-5: [Projeto - JavaScript Testes Unitários]()
+- [x] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7-2: JavaScript ES6 - Objects
+- [x] 7-3: Testes unitários em JavaScript
+- [x] 7-4: Testando em pequenos passos
+- [x] 7-5: [Projeto - JavaScript Testes Unitários]()
 
 ##### Bloco 8: JavaScript ES6
 
