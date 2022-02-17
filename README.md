@@ -65,29 +65,29 @@ Contém todas as atividades desenvolvidas por __[mim](www.linkedin.com/in/mariej
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort
-- [ ] 8-2: JavaScript ES6 - Higher Order Functions - map e reduce
-- [ ] 8-3: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [ ] 8-4: [Projeto - Zoo functions]()
+- [x] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, filter, some, every, sort
+- [x] 8-2: JavaScript ES6 - Higher Order Functions - map e reduce
+- [x] 8-3: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [x] 8-4: [Projeto - Zoo functions]()
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: Primeiros passos no Jest
-- [ ] 9-2: JavaScript Assíncrono e Callbacks
-- [ ] 9-3: JavaScript Promises
-- [ ] 9-4: [Projeto - Carrinho de Compras]()
+- [x] 9-1: Primeiros passos no Jest
+- [x] 9-2: JavaScript Assíncrono e Callbacks
+- [x] 9-3: JavaScript Promises
+- [x] 9-4: [Projeto - Carrinho de Compras]()
 
-##### Bloco 10: Jest
+##### Bloco 10: Introdução - React
 
-- [ ] 10-1: Jest - Testes Assíncronos
-- [ ] 10-2: Jest - Simulando comportamentos
-- [ ] 10-3: [Projeto - Jest Assíncrono e Mocking]()
+- [ ] 10-1: 'Hello, world!' no React!
+- [ ] 10-2: Componentes React
+- [ ] 10-3: [Projeto - Solar System]()
 
-##### Bloco 11: Introdução - React
+##### Bloco 11: Jest
 
-- [ ] 11-1: 'Hello, world!' no React!
-- [ ] 11-2: Componentes React
-- [ ] 11-3: [Projeto - Movie Cards Library]()
+- [ ] 11-1: Jest - Testes Assíncronos
+- [ ] 12-2: Jest - Simulando comportamentos
+- [ ] 13-3: [Projeto - Jest Assíncrono e Mocking]()
 
 ##### Bloco 12: React
 
